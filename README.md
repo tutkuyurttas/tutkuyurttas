@@ -8,6 +8,11 @@ Veri analizi ve makine öğrenmesi alanında çalışıyorum. Projelerimde iş s
 
 ## Featured work
 
+### [Bike Demand Prediction · Machine Learning](https://github.com/tutkuyurttas/bike-demand-ml)
+Daily bike-rental prediction with chronological validation, an executed notebook, and a Turkish presentation. Random Forest reduced test MAE by 28.6% against a 7-day baseline in a retrospective experiment using observed weather.
+
+**Focus:** Python · Pandas · scikit-learn · model evaluation · error analysis
+
 ### [Daily Sales & Margin Analysis · SQL](https://github.com/tutkuyurttas/gwz_sales_project)
 A focused BigQuery SQL exercise that aggregates daily turnover and purchase cost, then calculates their difference. The repository explains the query, required data access, and interpretation limits.
 
