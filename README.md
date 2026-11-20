@@ -8,6 +8,11 @@ Veri analizi ve makine öğrenmesi alanında çalışıyorum. Projelerimde iş s
 
 ## Featured work
 
+### [Machine Alarm · Cost-Sensitive Failure Screening](https://github.com/tutkuyurttas/machine-alarm-ml)
+Synthetic sensor-data classification with physics-informed features, ordered validation and separate threshold selection. Reports a negative test finding: the validation-selected threshold increased held-out cost. Includes an executed notebook and a 23-slide Turkish technical presentation.
+
+**Focus:** leakage prevention · rare events · precision/recall · decision costs · reproducible evaluation
+
 ### [Bike Demand Prediction · Machine Learning](https://github.com/tutkuyurttas/bike-demand-ml)
 Daily bike-rental prediction with chronological validation, an executed notebook, and a Turkish presentation. Random Forest reduced test MAE by 28.6% against a 7-day baseline in a retrospective experiment using observed weather.
 
